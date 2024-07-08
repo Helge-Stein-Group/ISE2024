@@ -44,7 +44,7 @@ Download and install Git from [here](https://git-scm.com/downloads).
 - [ ] Created a new branch
 - [ ] Made changes and pushed to the new branch
 
-## Example Git Commands
+## Alternative: Git Commands
 
 ### Clone a Repository
 ```bash
