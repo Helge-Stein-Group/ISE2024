@@ -2,6 +2,7 @@
 
 Welcome to the Industrial Software Engineering 2024 course! 
 🎉 🥳 🎈 🎊 🍾 🎂
+
 This guide will help you set up GitHub in Visual Studio Code (VS Code) and check off the necessary steps for successful installation and configuration. Additionally, it includes checklists for other essential software installations.
 
 ## Setup GitHub in VS Code
