@@ -1,6 +1,8 @@
 # Industrial Software Engineering 2024
 
-Welcome to the Industrial Software Engineering 2024 course! This guide will help you set up GitHub in Visual Studio Code (VS Code) and check off the necessary steps for successful installation and configuration. Additionally, it includes checklists for other essential software installations.
+Welcome to the Industrial Software Engineering 2024 course! 
+🎉 🥳 🎈 🎊 🍾 🎂
+This guide will help you set up GitHub in Visual Studio Code (VS Code) and check off the necessary steps for successful installation and configuration. Additionally, it includes checklists for other essential software installations.
 
 ## Setup GitHub in VS Code
 
@@ -41,30 +43,43 @@ Download and install Git from [here](https://git-scm.com/downloads).
 - [ ] Created a new branch
 - [ ] Made changes and pushed to the new branch
 
-## Necessary Software Installations
-
-### 1. MATLAB
-Download and install MATLAB from [here](https://www.mathworks.com/products/matlab.html).
-
-- [ ] Installed MATLAB
-
-### 2. Fusion 360
-Download and install Fusion 360 from [here](https://www.autodesk.com/products/fusion-360/overview).
-
-- [ ] Installed Fusion 360
-
-### 3. DWSIM
-Download and install DWSIM from [here](http://dwsim.inforside.com.br/).
-
-- [ ] Installed DWSIM
-
-### 4. Microsoft Excel
-Ensure you have Microsoft Excel installed. You can download it from [here](https://www.microsoft.com/en-us/microsoft-365/excel).
-
-- [ ] Installed Microsoft Excel
-
 ## Example Git Commands
 
 ### Clone a Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Helge-Stein-Group/ISE2024/
+```
+
+### Create a New Branch
+```bash
+git checkout -b <new-branch-name>
+```
+
+### Stage Changes
+```bash
+git add .
+```
+
+### Commit Changes
+```bash
+git commit -m "Your commit message"
+```
+
+### Push to Branch
+```bash
+git push origin <new-branch-name>
+```
+
+## Example VS Code Commands
+
+### Open Command Palette
+Press `Ctrl+Shift+P` and type the command you need, such as `Git: Clone`.
+
+### Source Control View
+Press `Ctrl+Shift+G` to open the Source Control view where you can stage, commit, and push changes.
+
+## Verification Checklist for Software Installations
+- [ ] Installed MATLAB
+- [ ] Installed Fusion 360
+- [ ] Installed DWSIM
+- [ ] Installed Microsoft Excel
